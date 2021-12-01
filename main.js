@@ -1,5 +1,5 @@
 import {drawGameScene} from './engine.js'
-import {keyup, keydown} from './utils/controls.js'
+import {keyup, keydown} from './controls.js'
 import {startScreen} from './startScreen.js'
 import {endScreen} from './endScreen.js'
 import {difficultyValues} from './difficultyValues.js'
